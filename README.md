@@ -63,7 +63,6 @@ El pipeline de datos implementa un proceso ETL completo:
 - **Ubicación de Almacenamiento**:
   - **Local**: Los archivos Parquet se almacenan en `data/` para pruebas locales y unitarias.
   - **AWS S3 (Opcional)**: Para despliegue en producción, los archivos pueden almacenarse en un bucket de S3.
-  - 
 
 ### Consumo de Datos
 
